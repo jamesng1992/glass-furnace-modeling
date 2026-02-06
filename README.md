@@ -89,7 +89,7 @@ $$\mathbf{x} = [h, v, q_m, z_1, z_2, z_3, z_4]^T$$
 ### Governing Equations
 
 **Transport delay chain** (Erlang-4):
-$$\dot{z}_i = \frac{N}{\theta}(z_{i-1} - z_i), \quad z_0 = u_1$$
+$$\dot{z_i} = \frac{N}{\theta}(z_{i-1} - z_i), \quad z_0 = u_1$$
 
 **Melting lag**:
 $$\dot{q}_m = \frac{-q_m + k_c z_4 (1 + k_w(w - w_0))}{\tau_m}$$
