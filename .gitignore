@@ -31,15 +31,16 @@ Thumbs.db
 desktop.ini
 
 # Data files (large / proprietary)
-data/*.xlsx
 data/*.csv
 !data/.gitkeep
 !data/README.md
+!data/glass_melter_LQI_outputs 1.xlsx
 
 # Trained model checkpoints (large binaries)
-trained_models/*.pt
 trained_models/*.pth
 !trained_models/.gitkeep
+!trained_models/neural_ode_v1_glass_melter.pt
+!trained_models/neural_ode_v2_glass_melter.pt
 
 # Output figures (regenerable)
 docs/figures/*.pdf

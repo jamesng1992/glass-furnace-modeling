@@ -109,7 +109,7 @@ where $f_\theta$ is a 3-layer neural network with 64 hidden units and Tanh activ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/glass-furnace-modeling.git
+git clone https://github.com/jamesng1992/glass-furnace-modeling.git
 cd glass-furnace-modeling
 
 # Create a virtual environment (recommended)
@@ -187,9 +187,9 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @article{nguyen2026glass,
-  title={Physics-Informed Neural ODE Modeling for Glass Melting Furnace Level Prediction},
-  author={Nguyen, X. and others},
-  journal={...},
+  title={Physics-Informed Neural Ordinary Differential Equations with Observer-Based State Correction for Modeling and Predictive Control of Glass Melters},
+  author={Nguyen, Xuan Dung James and Ibrahim, Toheeb Babatunde and Abouheaf, Mohammed and Peeno, Josh},
+  journal={Applied Soft Computing},
   year={2026}
 }
 ```
