@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data files (large / proprietary)
+data/*.xlsx
+data/*.csv
+!data/.gitkeep
+!data/README.md
+
+# Trained model checkpoints (large binaries)
+trained_models/*.pt
+trained_models/*.pth
+!trained_models/.gitkeep
+
+# Output figures (regenerable)
+docs/figures/*.pdf
+docs/figures/*.png
+!docs/figures/.gitkeep
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# MATLAB outputs
+*.mat
