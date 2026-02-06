@@ -189,7 +189,7 @@ If you use this code in your research, please cite:
 @article{nguyen2026glass,
   title={Physics-Informed Neural Ordinary Differential Equations with Observer-Based State Correction for Modeling and Predictive Control of Glass Melters},
   author={Nguyen, Xuan Dung James and Ibrahim, Toheeb Babatunde and Abouheaf, Mohammed and Peeno, Josh},
-  journal={Applied Soft Computing},
+  journal={Journal of Process Control},
   year={2026}
 }
 ```
