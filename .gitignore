@@ -45,6 +45,7 @@ trained_models/*.pth
 docs/figures/*.pdf
 docs/figures/*.png
 !docs/figures/.gitkeep
+!docs/figures/glass_furnace_schematic.png
 
 # LaTeX auxiliary files
 *.aux
